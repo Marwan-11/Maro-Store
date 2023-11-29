@@ -21,6 +21,7 @@
 
 - React
 - React router
+- Redux 
 - Vite
 - JS
 - Daisy ui Tailwind
